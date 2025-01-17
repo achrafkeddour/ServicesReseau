@@ -5,7 +5,6 @@
 #### **1. Networking**
 - **IP Addressing and Subnetting**
   - Static and dynamic IP configuration
-  - CIDR, Subnetting, and Supernetting
 - **DHCP (Dynamic Host Configuration Protocol)**
   - Installing and configuring a DHCP server
   - Managing leases and reservations
