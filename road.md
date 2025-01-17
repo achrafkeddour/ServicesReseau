@@ -1,6 +1,4 @@
-Here’s a detailed and comprehensive breakdown of the content for the two big files, **Linux.md** and **Windows.md**, covering everything you need to learn for both systems.
 
----
 
 ### **Linux.md**
 
